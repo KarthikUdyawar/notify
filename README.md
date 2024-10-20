@@ -183,7 +183,7 @@ This project is licensed under the Apache License. See the [LICENSE](https://git
 - **Inspiration:** Special thanks to all open-source contributors and communities that inspire and support developers around the world.
 - **Libraries and Tools:** This project uses several libraries and tools that enhance its functionality, including:
   - [pywhatkit](https://github.com/Ankit404butfound/pywhatkit) for sending WhatsApp messages.
-  - [libnotify](https://developer.gnome.org/libnotify/stable/) for desktop notifications.
+  - [libnotify](https://gitlab.gnome.org/GNOME/libnotify) for desktop notifications.
 - **Community:** Thanks to the programming and developer community for their invaluable resources, tutorials, and documentation that helped make this project possible.
 
 ## Contact Information
