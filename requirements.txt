@@ -23,7 +23,7 @@ pywhatkit==5.4
 requests==2.32.3
 soupsieve==2.6
 urllib3==2.2.3
-Werkzeug==3.0.4
+Werkzeug==3.0.6
 -e git+https://github.com/KarthikUdyawar/notify.git@a466c98d39e2113060812976ae34e095a769872f#egg=whatsapp_notifier
 wikipedia==1.4.0
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
